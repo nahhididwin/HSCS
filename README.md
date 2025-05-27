@@ -32,7 +32,7 @@ Input 11 : 1000
 Input 12 : 1000
 
 
-Thì chúng ta đặt base là 1000, rồi lấy "input-1" - "base" = "output-1", lặp đi lặp lại với các input kia.
+Thì chúng ta đặt QWA là 1000, rồi lấy "Input 1" - "QWA"; lặp đi lặp lại với các input kia.
 
 Như vậy thì chúng ta không cần phải lưu "1000;1500;1200;1100;1000;1900;1200;1700;1100;1000;1000", mà chúng ta chỉ cần lưu "1000;;500;200;100;;;900;200;700;100;;;".
 
