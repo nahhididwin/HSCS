@@ -8,7 +8,7 @@ compress_delta_avx2:
     push rbp
     mov rbp, rsp
 
-    vmovdqa ymm1, ymmword [qwa_vector]     ; Load 1000s into ymm1
+    vmovdqa ymm1, ymmword [qwa_vector]     
 
 .loop:
     cmp rdx, 0
@@ -25,7 +25,7 @@ compress_delta_avx2:
     ; Store result
     vmovdqu ymmword [rsi], ymm2
 
-    add rdi, 32       ; 8 * 4 bytes
+    add rdi, 32       
     add rsi, 32
     sub rdx, 8
     jmp .loop
