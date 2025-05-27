@@ -77,4 +77,9 @@ Và bạn có thể thêm chữ cái,vân vân,.v.v. thành số để nén, và
 
 # What's noteworthy?
 
-a
+The source code of "HSCS" uses CUDA/ASM to greatly increase the speed compared to normal!
+
+files/a1.asm for CPU Intel on Windows (MASM / NASM)
+
+files/a2.cu for CUDA NVIDIA GPU (Windows)
+
