@@ -13,7 +13,6 @@ __global__ void compress_delta_cuda(const int *input, int *output, int n) {
     }
 }
 
-// Host launcher (with full error checks and timing for profiling)
 void run_cuda(const int *h_input, int *h_output, int n) {
     int *d_input, *d_output;
 
