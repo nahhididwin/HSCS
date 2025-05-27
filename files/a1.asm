@@ -18,11 +18,8 @@ compress_delta_avx2:
     cmp rax, 8
     jl .scalar_fallback
 
-    ; Load 8 integers from input (32-bit each)
     vmovdqu ymm0, ymmword [rdi]
-    ; Subtract QWA (1000)
     vpsubd ymm2, ymm0, ymm1
-    ; Store result
     vmovdqu ymmword [rsi], ymm2
 
     add rdi, 32       
@@ -34,7 +31,6 @@ compress_delta_avx2:
     cmp rdx, 0
     jle .done
 
-    ; Scalar fallback
     mov eax, dword [rdi]
     sub eax, 1000
     mov dword [rsi], eax
