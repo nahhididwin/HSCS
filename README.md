@@ -72,6 +72,8 @@ Thì chúng ta đặt QWA là 1000, rồi lấy "Input 1" - "QWA"; lặp đi l�
 
 Như vậy thì chúng ta không cần phải lưu "1000;1500;1200;1100;1000;1900;1200;1700;1100;1000;1000", mà chúng ta chỉ cần lưu "1000;;500;200;100;;;900;200;700;100;;;".
 
+Và bạn có thể thêm chữ cái,vân vân,.v.v. thành số để nén, và cũng như bạn có thể mở rộng Input để tăng ĐÁNG KỂ (nhiều khi là RẤT RẤT ĐÁNG KỂ) hiệu quả nén!
+
 
 # What's noteworthy?
 
