@@ -4,7 +4,7 @@ High speed compression system.
 You can see the principle of this system is similar to some compression systems that already exist today, but in fact I came up with it myself, then realized that someone else had thought of it before me, but I still released the source code that runs it at very high speed!
 
 # Principle of operation
-Explanation in English Language (Translated by Google Translate) :
+1.Explanation in English Language (Translated by Google Translate) :
 
 Suppose we have a bunch of input that needs to be compressed:
 
@@ -39,7 +39,7 @@ So we don't need to save "1000;1500;1200;1100;1000;1900;1200;1700;1100;1000;1000
 And of course you can convert letters, etc. to numbers for compression, as well as expand the Input to SIGNIFICANTLY increase the compression efficiency!
 
 
-Explanation in Vietnamese Language (Original) :
+2.Explanation in Vietnamese Language (Original) :
 
 Giả sử ta có 1 đống input cần nén :
 
