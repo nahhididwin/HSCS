@@ -17,4 +17,5 @@ Under the following terms:
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+Disclaimer:
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
