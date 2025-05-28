@@ -1,7 +1,7 @@
 # HSCS
 High speed compression system.
 
-You can see the principle of this system is similar to some compression systems that already exist today, but in fact I came up with it myself, then realized that someone else had thought of it before me, but I still released the source code (never been seen before) and that runs it at very high speed!
+You can see the principle of this system is similar (not exactly the same, just familiar) to some compression systems that already exist today, but in fact I came up with it myself, then realized that someone else had thought of it before me, but I still released the source code (never been seen before) and that runs it at very high speed!
 
 # Principle of operation
 1.Explanation in English Language (Translated by Google Translate) :
