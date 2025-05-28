@@ -83,3 +83,8 @@ files/a1.asm for CPU Intel on Windows (MASM / NASM)
 
 files/a2.cu for CUDA NVIDIA GPU (Windows)
 
+
+# Notification :
+
+We are currently working on a significant upgrade for it, when it's done I'll announce it here!
+
